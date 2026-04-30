@@ -1,3 +1,3 @@
 # Python
 
-Top Algorithms and programming questions implemented in python
+Top Algorithms and programming questions implemented in python, everything needed for interview prep
